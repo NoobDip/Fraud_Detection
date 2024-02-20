@@ -1,5 +1,7 @@
 # Fraud Detection Model - README
 
+*Use the link to access fraud.csv file:* https://drive.google.com/drive/folders/1BDrPc1WeLNayJI4GD3eTWpUiWHXXuaov?usp=sharing 
+
 ## Objective
 The primary objective of this analysis is to develop an effective fraud detection model using machine learning techniques. This project utilizes the "Fraud.csv" dataset and encompasses data cleaning, exploratory data analysis (EDA), model training, and selection.
 
